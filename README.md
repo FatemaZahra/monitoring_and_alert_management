@@ -60,3 +60,7 @@ SNS is a distributed publish-subscribe service. Messages are pushed to subscribe
 SQS is distributed queuing service. Messages are not pushed to receivers. Receivers have to poll SQS to receive messages. Messages can be stored in SQS for short duration of time (max 14 days).
 
 ![Screenshot 2022-08-24 at 14 21 42](https://user-images.githubusercontent.com/102330725/186429313-37421268-ecc7-46a3-a9de-8f8b12452863.png)
+
+## AutoScaling and Load Balancing
+<img width="643" alt="Screenshot 2022-08-24 at 16 22 40" src="https://user-images.githubusercontent.com/102330725/186457937-588c84b1-5e5f-458a-8781-79965d6f61e9.png">
+
