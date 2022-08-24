@@ -43,17 +43,11 @@ A measure of our system fraction, emphasizing the resources that are most constr
 
 ## What is Alert Management?
 
-An Alert Management System (AMS) is a real time system which maintains profiles about threats, or other entities and in real time processes events and returns alerts and their risks.
+Alerting gives timely awareness to problems in our cloud applications so we can resolve the problems quickly.
 
-### Actions taken in case of an alert
+In Cloud Monitoring, an alerting policy describes the circumstances under which we want to be alerted and how we want to be notified.
 
-- Manually remediate the alert.
-- Acknowledge an alert that requires attention.
-- Create an incident or security incident.
-- Create a case.
-- Close the alert.
-- Resolve any incident that is related to the alert.
-- Reopen the alert
+When we use the console, we can enable a recommended alert or we can create an alert by starting from the Alerts page of Cloud Monitoring.
 
 ## SNS And SQS?
 
