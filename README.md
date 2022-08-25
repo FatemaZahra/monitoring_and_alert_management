@@ -63,7 +63,10 @@ SQS is distributed queuing service. Messages are not pushed to receivers. Receiv
 
 ## AutoScaling and Load Balancing
 
+Autoscaling automatically adjust the amount of computational resources based on traffic coming from the server.
 An Auto Scaling group contains a collection of EC2 instances that are treated as a logical grouping for the purposes of automatic scaling and management. An Auto Scaling group also enables us to use Amazon EC2 Auto Scaling features such as health check replacements and scaling policies. Both maintaining the number of instances in an Auto Scaling group and automatic scaling are the core functionality of the Amazon EC2 Auto Scaling service.
+
+*Load balancer*: It distributes traffic between EC2 instances, so that no instance is overwhelmed
 
 <img width="643" alt="Screenshot 2022-08-24 at 16 22 40" src="https://user-images.githubusercontent.com/102330725/186457937-588c84b1-5e5f-458a-8781-79965d6f61e9.png">
 
