@@ -84,3 +84,5 @@ An Auto Scaling group contains a collection of EC2 instances that are treated as
 
 ![Screenshot 2022-08-26 at 10 12 06](https://user-images.githubusercontent.com/102330725/186870546-3f9ca791-9813-4dea-af13-d08fe040ee76.png)
 
+4. Select **t2 micro** as an Instance Type
+![Screenshot 2022-08-26 at 10 15 38](https://user-images.githubusercontent.com/102330725/186871173-9ce2853e-a6dc-4205-945a-ed50722e7d3f.png)
