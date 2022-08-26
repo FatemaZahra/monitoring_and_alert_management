@@ -20,7 +20,8 @@ The data from various parts of our environment are collected into a monitoring s
 
 It is important to distinguish between the latency of successful requests and the latency of failed requests.
 
-### 2. Traffic
+### 2. Traffic![Screenshot 2022-08-26 at 10 29 17](https://user-images.githubusercontent.com/102330725/186873967-aeac98b2-e027-4c30-be8b-17429e39ef79.png)
+
 
 A measure of how much demand is being placed on your system, measured in a high-level system-specific metric.
 
@@ -91,3 +92,11 @@ An Auto Scaling group contains a collection of EC2 instances that are treated as
 5. Add the key
 
 ![Screenshot 2022-08-26 at 10 27 43](https://user-images.githubusercontent.com/102330725/186873622-909eb4f5-5721-4494-8ca1-8faa666fca17.png)
+
+6. Add security group
+
+![Screenshot 2022-08-26 at 10 30 29](https://user-images.githubusercontent.com/102330725/186874235-395d22b4-12b1-4441-aaad-4826ea3c66ed.png)
+
+7. Add storage
+
+![Screenshot 2022-08-26 at 10 31 13](https://user-images.githubusercontent.com/102330725/186874462-431c1762-b08c-40c2-8dee-62d627e35eaa.png)
