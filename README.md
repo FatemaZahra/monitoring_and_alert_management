@@ -62,6 +62,18 @@ SQS is distributed queuing service. Messages are not pushed to receivers. Receiv
 
 ![Screenshot 2022-08-24 at 14 21 42](https://user-images.githubusercontent.com/102330725/186429313-37421268-ecc7-46a3-a9de-8f8b12452863.png)
 
+### Steps to create an Alarm on CloudWatch
+
+1. Go to CloudWatch Service --> Click on Create Alarm
+![Screenshot 2022-08-26 at 12 14 05](https://user-images.githubusercontent.com/102330725/186893195-c97635e3-438b-4d64-9e7f-c6a73ed47ba1.png)
+
+2. Search for the instance for which the alarm is to be set.
+![Screenshot 2022-08-26 at 12 14 51](https://user-images.githubusercontent.com/102330725/186893551-c83b5dcf-c477-4ea8-b46b-ee06fe18bc6c.png)
+
+3. When the instance pops-up  
+![Screenshot 2022-08-26 at 12 15 03](https://user-images.githubusercontent.com/102330725/186893784-8727a6df-1fea-4dae-9f13-ebf12b112f38.png)
+
+
 ## AutoScaling and Load Balancing
 
 Autoscaling automatically adjust the amount of computational resources based on traffic coming from the server.
