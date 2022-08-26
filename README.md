@@ -80,3 +80,7 @@ An Auto Scaling group contains a collection of EC2 instances that are treated as
 
 ![Screenshot 2022-08-25 at 11 39 15](https://user-images.githubusercontent.com/102330725/186869409-89cd810c-e0e7-4c11-9ea4-8fd7bcdd0186.png)
 
+3. Select an Amazon Machine Image
+
+![Screenshot 2022-08-26 at 10 12 06](https://user-images.githubusercontent.com/102330725/186870546-3f9ca791-9813-4dea-af13-d08fe040ee76.png)
+
