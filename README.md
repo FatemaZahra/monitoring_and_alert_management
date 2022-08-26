@@ -107,5 +107,8 @@ An Auto Scaling group contains a collection of EC2 instances that are treated as
 
 ![Screenshot 2022-08-26 at 10 33 42](https://user-images.githubusercontent.com/102330725/186875443-cad19188-a5d5-4697-b174-7b496fd2c9cf.png)
 
+### AutoScaling
 
+1. Go to Autoscaling groups --> Create an Autoscaling group
 
+![Screenshot 2022-08-26 at 10 49 32](https://user-images.githubusercontent.com/102330725/186891032-bce78964-c3f4-439e-8c7a-4ad69dc04842.png)
