@@ -70,3 +70,11 @@ An Auto Scaling group contains a collection of EC2 instances that are treated as
 
 <img width="643" alt="Screenshot 2022-08-24 at 16 22 40" src="https://user-images.githubusercontent.com/102330725/186457937-588c84b1-5e5f-458a-8781-79965d6f61e9.png">
 
+## AutoScaling Steps
+
+1. We start by launching a template, Go to Launch Templates ---> Create launch template
+
+![Screenshot 2022-08-25 at 15 34 50](https://user-images.githubusercontent.com/102330725/186865060-af0f073d-bdab-4281-bfeb-0838d74ccd05.png)
+
+
+
