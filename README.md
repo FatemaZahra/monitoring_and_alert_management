@@ -76,5 +76,7 @@ An Auto Scaling group contains a collection of EC2 instances that are treated as
 
 ![Screenshot 2022-08-25 at 15 34 50](https://user-images.githubusercontent.com/102330725/186865060-af0f073d-bdab-4281-bfeb-0838d74ccd05.png)
 
+2. Provide a name and description for the template and tick the checkbox for AutoScaling guidance.
 
+![Screenshot 2022-08-25 at 11 39 15](https://user-images.githubusercontent.com/102330725/186869409-89cd810c-e0e7-4c11-9ea4-8fd7bcdd0186.png)
 
