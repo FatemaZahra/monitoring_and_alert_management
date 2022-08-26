@@ -100,3 +100,8 @@ An Auto Scaling group contains a collection of EC2 instances that are treated as
 7. Add storage
 
 ![Screenshot 2022-08-26 at 10 31 13](https://user-images.githubusercontent.com/102330725/186874462-431c1762-b08c-40c2-8dee-62d627e35eaa.png)
+
+8. Add resource tags and Advanced details if needed and then click on Create template below the summary
+
+![Screenshot 2022-08-26 at 10 33 42](https://user-images.githubusercontent.com/102330725/186875443-cad19188-a5d5-4697-b174-7b496fd2c9cf.png)
+
