@@ -20,8 +20,7 @@ The data from various parts of our environment are collected into a monitoring s
 
 It is important to distinguish between the latency of successful requests and the latency of failed requests.
 
-### 2. Traffic![Screenshot 2022-08-26 at 10 29 17](https://user-images.githubusercontent.com/102330725/186873967-aeac98b2-e027-4c30-be8b-17429e39ef79.png)
-
+### 2. Traffic!
 
 A measure of how much demand is being placed on your system, measured in a high-level system-specific metric.
 
